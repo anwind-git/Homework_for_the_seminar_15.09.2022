@@ -14,4 +14,5 @@ while (num1 >= num2)
     }
     num2 = num2 + 1;
 }
+
 Console.WriteLine();
