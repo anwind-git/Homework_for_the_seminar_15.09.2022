@@ -12,7 +12,7 @@ while (num1 >= num2)
         Console.Write(num2 + ", ");
         num2++;
     }
-    num2+;
+    num2++;
 }
 
 Console.WriteLine();
