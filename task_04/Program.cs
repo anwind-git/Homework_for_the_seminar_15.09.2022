@@ -7,8 +7,8 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число 3: ");
 int num3 = Convert.ToInt32(Console.ReadLine());
 
-int max = 0;
 int start = 3;
+int max = num1;
 
 while (start > 0)
 
